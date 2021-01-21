@@ -6,7 +6,7 @@ public class SquareTest {
 
     public static void test() throws IOException {
 
-        Scanner scan = new Scanner(new File("C:/users/bagal/desktop/magicdata.txt"));
+        Scanner scan = new Scanner(new File("magicdata.txt"));
         int count = 1;
         int size = scan.nextInt();
 
